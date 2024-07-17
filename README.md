@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - I’m currently working on web development
 - I’m currently learning CSS, HTML and Javascript
 - I’m looking to collaborate on the twist project at PUC-Rio
-- How to reach me: luisasilveira040@gmail.com
-
