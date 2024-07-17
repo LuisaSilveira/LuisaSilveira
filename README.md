@@ -4,12 +4,13 @@
 **LuisaSilveira/LuisaSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - I'm a Computer Engineering undergraduate student at PUC-Rio collegeComputer Engineering undergraduate student at PUC-Rio college;
-- I'm part of the TEPP scholarship 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning CSS, HTML and Javascript
-- 👯 I’m looking to collaborate on the twist project at PUC-Rio
-- 💬 Ask me about ...
-- 📫 How to reach me: luisasilveira040@gmail.com
--->
+- I'm part of the TEPP scholarship, which provides tutoring for engineering and computer science students, in addition to being an intermediary between students and subject coordinators;
+- I'm on the TWIST project at PUC-Rio
+- I’m currently working on web development
+- I’m currently learning CSS, HTML and Javascript
+- I’m looking to collaborate on the twist project at PUC-Rio
+- How to reach me: luisasilveira040@gmail.com
+
